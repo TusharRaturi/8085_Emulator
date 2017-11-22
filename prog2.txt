@@ -1,0 +1,6 @@
+set 2200,55
+lxi h,2200
+mvi a,22
+mov b,a
+mov d,m
+hlt
